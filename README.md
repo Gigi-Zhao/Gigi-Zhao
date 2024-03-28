@@ -43,7 +43,7 @@
 <p align="left">
 <!-- <a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a> !-->
 <a href="https://linkedin.com/in/ruoqi-zhao-6502022b8"><img src="https://img.shields.io/badge/-Ruoqi%20Zhao-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/gigi_zhao_"><img src="https://img.shields.io/badge/-@gigi_zhao_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/gigi_zhao_?igsh=OGQ5ZDc2ODk2ZA=="><img src="https://img.shields.io/badge/-@gigi_zhao_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
 -----
